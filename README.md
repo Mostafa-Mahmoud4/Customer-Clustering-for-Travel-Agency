@@ -45,5 +45,3 @@ This project provides valuable insights into customer behavior in the travel ind
 3. Run the Jupyter Notebook to execute the clustering analysis.
 4. Visualize and interpret the results.
 
-For further improvements, additional clustering techniques like hierarchical clustering or DBSCAN can be explored.
-
